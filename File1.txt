@@ -1,4 +1,5 @@
 File 1
-Related to File 1 UI Changes & Vulnerability Fixes added below
-Feature 2 Vulnerable Fixes
+Related to File 1 UI Changes & Feature 1, Feature 2 Vulnerability Fixes
 Related to File 1 Logo Changes
+Feature 1 Vulnerable Fixes are related to XSS, External control of file name or path.
+Feature 2 Vulnerable Fixes
