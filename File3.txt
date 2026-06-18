@@ -1,3 +1,4 @@
 File 3
 Related to File 3 UI Changes
 Related to File 3 Logo Changes
+Feature 2 Vulnerable Fixes are related to XSS, External control of file name or path.
