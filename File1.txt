@@ -1,3 +1,4 @@
 File 1
-Related to File 1 UI Changes
+Related to File 1 UI Changes & Vulnerability Fixes added below
+Feature 1 Vulnerable Fixes
 Related to File 1 Logo Changes

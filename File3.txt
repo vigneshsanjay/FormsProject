@@ -1,5 +1,6 @@
 File 3
-Related to File 3 UI Changes
+Related to File 3 UI Changes & Vulnerability fixes
+Feature 1 Vulnerable Fixes
 All the changes related to the bug fixes and
 DSA Report level changes are added in to the july release branch.
 Related to File 3 Logo Changes
