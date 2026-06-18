@@ -1,6 +1,7 @@
 File 3
 Related to File 3 UI Changes & Vulnerability fixes
 Feature 1 Vulnerable Fixes
+Feature 2 Vulnerable Fixes are related to XSS, External control of file name or path.
 All the changes related to the bug fixes and
 DSA Report level changes are added in to the july release branch.
 Related to File 3 Logo Changes
